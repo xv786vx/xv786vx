@@ -7,5 +7,5 @@ works in progress:
 - **Study Showdown** - gamifying studying 
 - **LSTM Visualizer** - tweak and train your own LSTM and make predictions against the stock market
 
-[my linkedin](https://www.linkedin.com/in/firas-adnan-jalil/)
+[my linkedin](https://www.linkedin.com/in/firas-adnan-jalil/) \
 [my resume](https://firasajresume.tiiny.site/)
