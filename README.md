@@ -1,6 +1,6 @@
 ## hey 👋
 
-i'm firas, and i'm pursuing a degree in computer science + ai specialization @ university of toronto + seeking summer 2025 internships. I love pokemon, badminton, music, stocks, and making things that use them.
+i'm firas, and i'm pursuing a degree in computer science + ai specialization @ utsg + seeking summer 2025 internships.
 
 works in progress:
 - **SYNCER** - syncing music across youtube and spotify
