@@ -4,8 +4,9 @@ i'm firas, and i'm pursuing a degree in computer science + ai specialization @ u
 
 works in progress:
 - **SYNCER** - syncing music across youtube and spotify
-- **Study Showdown** - gamifying studying 
 - **LSTM Visualizer** - tweak and train your own LSTM and make predictions against the stock market
+- **Study Showdown** - gamifying studying
+- **sage** - productivity and planning app that generates schedules for users
 
 [my linkedin](https://www.linkedin.com/in/firas-adnan-jalil/) \
 [my resume](https://firasajresume.tiiny.site/)
