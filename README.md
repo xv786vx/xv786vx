@@ -9,4 +9,4 @@ works in progress:
 - **sage** - productivity and planning app that generates schedules for users
 
 [my linkedin](https://www.linkedin.com/in/firas-adnan-jalil/) \
-[my resume](https://firasajresume.tiiny.site/)
+[my resume]([https://firasajresume.tiiny.site/](https://drive.google.com/file/d/1XPTEwmtLYPLNVPS070tVkXBBrpJfJ4F_/view?usp=sharing))
