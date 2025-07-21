@@ -19,7 +19,7 @@
   </tr>
   <tr>
     <td><a href="https://github.com/cy1der/ignitionv4"><b>RecipeLens</b></a></td>
-    <td>Hackathon winning Flutter app for finding recipes and planning meal</td>
+    <td>Hackathon winning Flutter app for finding recipes and planning meals</td>
   </tr>
   <tr>
     <td><a href="https://colab.research.google.com/drive/1y50I3hDfcc55mXrFq70Ukbm15e1gLC-V"><b>LSTM Stock Predictor</b></a></td>
