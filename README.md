@@ -1,5 +1,5 @@
 <div align="center">
-  <h2>hi, I'm <a href="https://firasaj.dev" target="_blank">Firas</a> 👋</h2>
+  <h3>hi, I'm <a href="https://firasaj.dev" target="_blank">Firas</a> 👋</h3>
   <p>Computer Science Student @ UofT</p>
 </div>
 <div align="center">
