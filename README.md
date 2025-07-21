@@ -3,12 +3,7 @@
   <p>Computer Science Student @ UofT</p>
 </div>
 <div align="center">
-  <a href="https://www.linkedin.com/in/firas-adnan-jalil/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25"   alt="linkedin logo"  />
-  </a>
-  <a href="https://drive.google.com/file/d/1XPTEwmtLYPLNVPS070tVkXBBrpJfJ4F_/view?usp=drive_link" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Resume&logo=google-drive&label=&color=34A853&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="resume logo" />
-  </a>
+  <a href="https://www.linkedin.com/in/firas-adnan-jalil/" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" style="display:inline-block;vertical-align:middle;margin:8;padding:0;border-radius:0;" /></a><a href="https://drive.google.com/file/d/1XPTEwmtLYPLNVPS070tVkXBBrpJfJ4F_/view?usp=drive_link" target="_blank"><img src="https://img.shields.io/static/v1?message=Resume&logo=google-drive&label=&color=34A853&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="resume logo" style="display:inline-block;vertical-align:middle;margin:0;padding:0;border-radius:0;" /></a>
 </div>
 
 ### current projects
